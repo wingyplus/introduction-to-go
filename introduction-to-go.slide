@@ -1,0 +1,44 @@
+Introduction to Go
+27 Jun 2015
+
+Thanabodee Charoenpiriyakij
+Treebuild & SPINT3R
+
+* History
+
+- Began in late 2007.
+- Rob Pike, Rober Griesemer, Ken Thompson
+- Open source in November 2009
+- Currently is version 1.4.2
+
+* Why we choose Go?
+
+- Statically typed and garbage collected
+- Fast compilers
+- Single binary, easy to deploy
+- Concurrency support
+- Rich standard library
+- Tools (fmt, goimports, golint)
+- Code conventions
+
+* Hello, gophers
+
+.play introduction-to-go/hello.go
+
+* Demo - Contact
+
+* Resources
+
+.link http://tour.golang.org/welcome/1 Go Tour
+.link http://golang.org/doc/code.html How to write Go Code
+.link http://blog.golang.org/ The Go Blog
+.link https://www.golang-book.com/ Golang book
+.link http://golang.in.th/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD-go-%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2/ Golang book (Thai version)
+.link http://golang.in.th/ Golang dot in dot th
+
+* Course Go at SPRINT3R
+
+Introduction to Go
+Concurrency Programming with Go
+
+.image introduction-to-go/p'roof.png
